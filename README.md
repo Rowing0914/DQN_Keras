@@ -15,7 +15,7 @@ $ python demo.py
 ```
 
 ## Model architecture
-
+![architecture](https://github.com/Rowing0914/DQN_Keras/blob/master/model.png)
 
 ## Reference of the Paper
 https://arxiv.org/pdf/1312.5602.pdf

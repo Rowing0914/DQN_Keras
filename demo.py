@@ -6,7 +6,7 @@ env_name = 'CartPole-v0'
 eps = 0.8
 episodes = 5
 env = gym.make(env_name)
-model = load_model('my_model.h5')
+model = load_model('./model/my_model.h5')
 agent = Agent(env)
 
 

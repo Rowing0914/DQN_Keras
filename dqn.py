@@ -52,7 +52,7 @@ class Agent:
 
     def save_model(self):
         # creates a HDF5 file 'my_model.h5'
-        self.model.save('my_model.h5')
+        self.model.save('./model/my_model.h5')
         pass
 
 
